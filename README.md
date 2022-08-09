@@ -5,8 +5,7 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
-<img src="![image](https://user-images.githubusercontent.com/99465431/183590925-49b49519-187b-42c9-a172-cab8814ec0ed.png)
-" alt="05cItXL96l4LE9n02WfDR0h-6.png" height="382px">
+  <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="netflix-logo-png-2574.png" width="500px" height="500px">
 </p>
 
 <p>We have clustered Netflix Movies And TV Shows Data with K-Means Clustring and built a recommender system in Google Colab which recommends 5 movies based on input movie using cosin similarity.</p>
